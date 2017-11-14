@@ -82,6 +82,8 @@ refresh_repo_list() {
   for git_repo in director \
                   cephadmin \
                   osp-rbac \
+                  osp-controller \
+                  osp-compute \
                   nginx \
                   teaming \
                   repos \
